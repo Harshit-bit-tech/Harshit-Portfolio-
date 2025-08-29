@@ -139,12 +139,8 @@ button.btn:hover {
   transform: scale(1.05);
 }
 
-.contact-info {
-  text-align: center;
-  margin-top: 1.5rem;
-  color: #fff;
-}
-
+/* Contact info */
+.contact-info { text-align: center; margin-top: 1.5rem; }
 .contact-info p { margin: 0.5rem 0; }
 .contact-info a { color: #00b4d8; font-weight: bold; }
 
